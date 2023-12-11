@@ -95,18 +95,18 @@ You will be presented with a prompt:
 
 After typing your question, hit enter, the bot will start scraping and creating the files inside folder SOURCE_DOCUMENTS. This will take some time based on your hardware. 
 
-# For bot scraping top-related results, you would get a response like this : 
+## For bot scraping top-related results, you would get a response like this : 
 
 <img width="1312" alt="Screenshot 12-11-2023" src="https://github.com/ghoshausc/public_safety_chatbot_560/blob/fce685ce3cace0b9b2c8c778d0d85e0e249ef103/bot_scraping.png">
 
 
-# For bot responding to your queris, you will get a response like this below.
+## For bot responding to your queris, you will get a response like this below.
 <img width="1312" alt="Screenshot 12-11-2023" src="https://github.com/ghoshausc/public_safety_chatbot_560/blob/b33a80dec8ad7d6a15ab1c456cc45eb049df87fb/bot_working_demo.png">
 
 Once the answer is generated, you can then ask another question without re-running the script, just wait for the prompt again.
 
 
-# For seeing most related images, you can take a look a the folder images/ which will contain all images downloaded from the top-related websites. 
+## For seeing most related images, you can take a look a the folder images/ which will contain all images downloaded from the top-related websites. 
 
 It then identifies the objects/texts in the images. Below is a screen shot for that : 
 
