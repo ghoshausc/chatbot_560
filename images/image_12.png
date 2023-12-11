@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="17 11 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>FD13BBDD-C0A1-423C-ACBD-DEB2E88C7625</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-57.5%" y="-143.8%" width="215.0%" height="387.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page" transform="translate(-711.000000, -1725.000000)">
+            <g id="Footer" transform="translate(0.000000, 1696.000000)">
+                <g id="Social" filter="url(#filter-1)" transform="translate(680.000000, 40.000000)">
+                    <g id="Instagram" transform="translate(48.000000, 0.000000)">
+                        <g id="Base-UI/Icon-Social/In-Circle/Instagram">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Oval" fill="#58688A" xlink:href="#path-2"></use>
+                            <path d="M11.9204545,9 C10.865017,9 10,9.86501705 10,10.9204545 C10,11.975892 10.865017,12.8409091 11.9204545,12.8409091 C12.975892,12.8409091 13.8409091,11.975892 13.8409091,10.9204545 C13.8409091,9.86501705 12.975892,9 11.9204545,9 Z M19.6022727,12.8409091 C18.7638023,12.8409091 18.158475,13.1559818 17.6818182,13.5426136 C17.6633523,13.3233273 17.459075,13.1357875 17.2386364,13.1363636 L14.875,13.1363636 C14.6430239,13.1363636 14.4318182,13.3475693 14.4318182,13.5795455 L14.4318182,21.5568182 C14.4318182,21.7887943 14.6430239,22 14.875,22 L17.3863636,22 C17.6183398,22 17.8295455,21.7887943 17.8295455,21.5568182 L17.8295455,17.125 C17.8295455,16.7810761 17.9397633,16.4561943 18.0926773,16.2432455 C18.2455913,16.0302966 18.4117977,15.9431818 18.5681818,15.9431818 L18.8636364,15.9431818 C19.0200205,15.9431818 19.1862136,16.0303173 19.3391409,16.2432455 C19.4920682,16.4561736 19.6022727,16.7810614 19.6022727,17.125 L19.6022727,21.5568182 C19.6022727,21.7887943 19.8134784,22 20.0454545,22 L22.5568182,22 C22.7887943,22 23,21.7887943 23,21.5568182 L23,16.3863636 C23,15.3822761 22.811308,14.4877727 22.2521307,13.8334886 C21.6929534,13.1792045 20.7956284,12.8409386 19.6021989,12.8409386 L19.6022727,12.8409091 Z M10.2955284,13.5795455 L10.2955284,21.5568182 C10.2955284,21.7887943 10.5067341,22 10.7387102,22 L13.2500739,22 C13.48205,22 13.6932557,21.7887943 13.6932557,21.5568182 L13.6932557,13.5795455 C13.6932557,13.3475693 13.48205,13.1363636 13.2500739,13.1363636 L10.6926193,13.1363636 C10.4761545,13.1588684 10.2943761,13.3619875 10.2955284,13.5795455 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

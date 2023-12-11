@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="17 11 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>4CE12BEC-0BCD-4C1E-B0B9-10B47AB17F0F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-34.8%" y="-143.8%" width="169.7%" height="387.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-Page---Suggested-Version" transform="translate(-181.000000, -6344.000000)">
+            <g id="Footer" transform="translate(0.000000, 6194.000000)">
+                <g id="Social" filter="url(#filter-1)" transform="translate(150.000000, 161.000000)">
+                    <g id="Twitter" transform="translate(48.000000, 0.000000)">
+                        <g id="Base-UI/Icon-Social/In-Circle/Instagram">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Oval" fill="#58688A" xlink:href="#path-2"></use>
+                            <path d="M22.8571429,11.638464 C22.3528819,11.8678681 21.8098936,12.0229812 21.2410872,12.0931903 C21.8219959,11.7356138 22.268166,11.1706755 22.4779386,10.497158 C21.9341435,10.8277938 21.3322576,11.067811 20.6908376,11.1967998 C20.1777016,10.6359434 19.4467248,10.2857143 18.6374868,10.2857143 C17.083556,10.2857143 15.8233069,11.5772351 15.8233069,13.1708183 C15.8233069,13.3977733 15.8491251,13.6173808 15.8967273,13.8288245 C13.5585699,13.7088159 11.4858555,12.5593461 10.0981292,10.8139153 C9.85527709,11.2400682 9.71731128,11.7356138 9.71731128,12.2646311 C9.71731128,13.265519 10.2143109,14.1488474 10.9686854,14.665619 C10.5071857,14.650924 10.0731178,14.5211189 9.69472039,14.3047769 L9.69472039,14.3415142 C9.69472039,15.739165 10.6637083,16.9049626 11.9513892,17.1702877 C11.7149917,17.2364148 11.4672987,17.2715194 11.2099239,17.2715194 C11.0291967,17.2715194 10.8525037,17.2535589 10.6806515,17.2192708 C11.0388785,18.3654751 12.0780596,19.1998204 13.3092633,19.2234956 C12.345923,19.996612 11.1324694,20.4578694 9.81412939,20.4578694 C9.58741365,20.4578694 9.36311835,20.4448073 9.14285714,20.4178666 C10.3877767,21.2367006 11.8666734,21.7142857 13.4561041,21.7142857 C18.6310322,21.7142857 21.4613484,17.3180533 21.4613484,13.5055361 C21.4613484,13.3798128 21.4581211,13.2565387 21.4532802,13.1324482 C22.002723,12.7258886 22.480359,12.2172808 22.8571429,11.6392804 L22.8571429,11.638464 L22.8571429,11.638464 Z" id="Twitter" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
