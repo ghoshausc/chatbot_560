@@ -2,9 +2,22 @@ This is a Public Safety Chatbot that answers questions of public safety in diffe
 
 This project was inspired by the original [localGPT](https://github.com/PromtEngineer/localGPT). The code asks for a user query related to public safety in Los Angeles, scrapes websites of top-related searches from Google and answers questions basd on the latest update. It will also show most relevant images (if any ) related to the user query. 
 
+# Process of working : Run the code run_localGPT_copy2.py. It will ask for a user query. Once the query is entered : 
+
+1. Scrapes top-related websites
+2. Creates a PDF from the scraped content
+3. Stores the file under directory `SOURCE_DIRECTORY`
+4. Downloads the images found in these URls (downloads top 40 ones) and stores them inside `images` directory.
+5. Detects objects/texts in these images
+6. Picks the top 5 related images based on the user query (can not pick an image if not related to query)
+7. Displays the image files top-related
+8. Shows the response of the query
+
+
+
 # Environment Setup 🌍
 
-1. 📥 Please install Python 3.11 or create with Conda : conda create -n nv python=3.11
+1. 📥 Please install Python 3.11 or create with Conda : conda create -n environment_name python=3.11
 
 
 2. 📥 Clone the repo using git:
