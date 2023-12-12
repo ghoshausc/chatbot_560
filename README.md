@@ -36,6 +36,9 @@ To set up your environment to run the code, first install all requirements:
 pip install -r requirements.txt
 ```
 
+
+***In case there's some dependency errors for tf.keras.load_image, please do ` pip install --upgrade tensorflow ` ***
+
 ***Installing LLAMA-CPP :***
 
 
