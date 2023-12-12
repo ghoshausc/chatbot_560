@@ -93,7 +93,7 @@ You will be presented with a prompt:
 > Enter a query:
 ```
 
-After typing your question, hit enter, the bot will start scraping and creating the files inside folder SOURCE_DOCUMENTS. This will take some time based on your hardware. 
+After typing your question, hit enter, the bot will start scraping and creating the files inside folder SOURCE_DOCUMENTS. This will take some time based on your hardware (5-10 minutes on MacBook Pro M1). 
 
 ## For bot scraping top-related results, you would get a response like this : 
 
